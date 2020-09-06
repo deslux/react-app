@@ -10,7 +10,6 @@ function App() {
         <p>
            And? Is this crap working now? 
            Of course :-)
-
         </p>
       </header>
     </div>
