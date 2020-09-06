@@ -10,7 +10,7 @@ RUN npm run build
 
 # DEPLOY/RUN Phase 
 FROM nginx as run
-
+EXPOSE 80
 COPY --from=build /app/build /usr/share/nginx/html
 
 # Use default container command to start nginx 
