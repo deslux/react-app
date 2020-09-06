@@ -9,7 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
            And? Is this crap working now? 
-           Of course.......
+           Of course :-)
+
         </p>
       </header>
     </div>
